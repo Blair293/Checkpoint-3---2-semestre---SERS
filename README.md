@@ -2,12 +2,9 @@
 
 ## Integrantes
 
--   **Integrante 1:** \[Nome completo\] --- **RM:** \[Número de RM\]
--   **Integrante 2:** \[Nome completo\] --- **RM:** \[Número de RM\]
--   **Turma:** \[Identificação da turma\]
+-   **Integrante 1:** \[Victor Hugo Lavaqui\] --- **RM:** \[573838\]
+-   **Turma:** \[CCPK\]
 
-> Antes da entrega, substitua os campos entre colchetes pelos dados dos
-> integrantes e da turma.
 
 ## Objetivo da atividade
 
